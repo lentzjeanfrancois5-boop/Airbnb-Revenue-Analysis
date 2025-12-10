@@ -33,7 +33,7 @@ The full, modeled data, the preparatory SQL script, and the final visual report 
 | File Name | Content & Review Focus |
 | :--- | :--- |
 | **[`1_Airbnb_Data_Prep_SQL.sql`]([INSERT LINK TO SQL FILE HERE])** | The **core SQL script** containing data cleaning, segmentation (Price Tier), and the calculation of key metrics (**ADR**, Quality Score) used in the analysis. |
-| **[`2_Airbnb_Dashboard_Export.pdf`]([INSERT LINK TO PDF/PNG DASHBOARD HERE])** | Static export of the final **Advanced Excel/Sheets Dashboard** and key charts. |
+| **[`Airbnb-Revenue-Analysis excel file`](https://github.com/lentzjeanfrancois5-boop/Airbnb-Revenue-Analysis/blob/main/Spreadsheet%20Data%20Analysis_%20Project%20(1).xlsx)** | Static export of the final **Advanced Excel/Sheets Dashboard** and key charts. |
 | **`README.md`** | Project overview and summary of technical methods and key findings. |
 
 ### ➡️ How to View the Code
